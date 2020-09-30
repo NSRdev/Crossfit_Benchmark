@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">The Benchmark</string>
+
+    <string-array name="exercises">
+        <item>Back Squat</item>
+        <item>Barbell Lunges</item>
+        <item>Bench Press</item>
+        <item>Bent Row</item>
+        <item>Box Squat(Above pararell)</item>
+        <item>Box Squat Below pararell)</item>
+        <item>Clean and Jerk</item>
+        <item>Cluster</item>
+        <item>Deadlift</item>
+        <item>Floor Press</item>
+        <item>Front Squat</item>
+        <item>Good Morning</item>
+        <item>Good Morning Halterofilia</item>
+        <item>High Power Snatch</item>
+        <item>High Squat Snatch</item>
+        <item>Hip Thrust</item>
+        <item>One Handed Snatch</item>
+        <item>Overhead Squat</item>
+        <item>Pistol Squat</item>
+        <item>Power Clean</item>
+        <item>Power Hang Clean</item>
+        <item>Power Hang Snatch</item>
+        <item>Power Snatch</item>
+        <item>Push Jerk</item>
+        <item>Push Press</item>
+        <item>Push Up</item>
+        <item>Shoulder Press</item>
+        <item>Snatch Deadlift</item>
+        <item>Split Jerk</item>
+        <item>Squat Clean</item>
+        <item>Squat Hang Clean</item>
+        <item>Squat Hang Snatch</item>
+        <item>Squat Snatch</item>
+        <item>Sumo Deadlift</item>
+        <item>Thruster</item>
+        <item>Turkish Get-up</item>
+        <item>Weighted Pull-up</item>
+        <item>Weighted Ring-dip</item>
+    </string-array>
+</resources>
